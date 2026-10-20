@@ -1,0 +1,16 @@
+Student Marks Analysis
+----------------------
+Student Marks: [78 85 90 67 92 75 88 80 95 70]
+Mean Marks: 82.0
+Median Marks: 82.5
+Maximum Marks: 95
+Minimum Marks: 67
+Standard Deviation: 9.03
+
+Result Analysis
+----------------------
+The average marks are 82.0.
+The median marks are 82.5.
+The highest mark is 95.
+The lowest mark is 67.
+The standard deviation is 9.03.
